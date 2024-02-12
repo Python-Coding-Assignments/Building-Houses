@@ -1,2 +1,0 @@
-MINIMUM = 3
-MAXIMUM = 37
